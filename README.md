@@ -1,4 +1,4 @@
-# autoresearch-qwen
+# RSI-Qwen
 
 Autonomous research loop for improving [Qwen/Qwen3-VL-4B-Instruct](https://huggingface.co/Qwen/Qwen3-VL-4B-Instruct) on the official [HuggingFaceM4/DocumentVQA](https://huggingface.co/datasets/HuggingFaceM4/DocumentVQA) benchmark.
 
@@ -122,7 +122,7 @@ If you want to change the benchmark contract itself, open an issue first so the 
 
 ## Star Trend
 
-[![Star History Chart](https://api.star-history.com/svg?repos=wadeKeith/autoresearch-qwen&type=Date&cache=2026061414)](https://star-history.com/#wadeKeith/autoresearch-qwen&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=wadeKeith/RSI-Qwen&type=Date&cache=2026061414)](https://star-history.com/#wadeKeith/RSI-Qwen&Date)
 
 ## License
 
